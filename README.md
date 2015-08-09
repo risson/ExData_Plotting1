@@ -1,3 +1,7 @@
+##Note
+
+<b>Please download the zip file from <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> and unzip the file "household_power_consumption.txt" to the same directory as the R files before you run the code.
+
 ## Introduction
 
 This assignment uses data from
